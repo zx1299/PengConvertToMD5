@@ -6,7 +6,7 @@ package
 	{
 		public function PengConvertToMD5()
 		{
-			
+			trace("PengConvertToMD5");		
 		}
 	}
 }
